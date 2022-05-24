@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Crypto , Reverse
+
 🌱 I’m currently learning Quantitative Finance, Malware's Cryptographic Algorithms
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScorpionRE&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
