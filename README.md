@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Crypto , Reverse, Identification of Cryptographic Primitives
 
-🌱 I’m currently learning Quantitative Finance, 
+🌱 I’m currently learning Quantitative Finance, Economics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScorpionRE&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
