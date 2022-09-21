@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Crypto , Reverse, Identification of Cryptographic Primitives
+🔭 I’m currently working on Crypto , Reverse
 
 🌱 I’m currently learning Quantitative Finance, Economics
 
